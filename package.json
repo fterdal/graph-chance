@@ -5,6 +5,11 @@
   "author": "Finn Terdal <fterdal@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "chance": "^1.0.12"
+    "body-parser": "^1.18.2",
+    "chance": "^1.0.12",
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.7",
+    "nodemon": "^1.12.1"
   }
 }
